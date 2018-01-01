@@ -1,8 +1,8 @@
 /**
  * Scapegoat
- * https://github.com/brentertz/scapegoat
+ * https://github.com/rwibawa/scapegoat
  *
- * Copyright (c) 2014 Brent Ertz
+ * Copyright (c) 2017 Ryan Wibawa
  * Licensed under the MIT license.
  */
 
